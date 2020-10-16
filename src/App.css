@@ -1,0 +1,19 @@
+.app{
+  display: flex;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #363a3f;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #2f3135;
+}
+
+
